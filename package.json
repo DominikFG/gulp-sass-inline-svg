@@ -23,10 +23,10 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "gulp-sass-inline-svg",
+  "name": "gulp-sass-inline-svg-sass3.5",
   "optionalDependencies": {},
   "scripts": {
     "test": "gulp --gulpfile ./tests/test.js"
   },
-  "version": "1.0.2"
+  "version": "1.0.4"
 }

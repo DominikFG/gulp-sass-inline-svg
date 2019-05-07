@@ -1,6 +1,6 @@
-# gulp-sass-inline-svg
+# gulp-sass-inline-svg-sass3.5
 
-Updated to support Sass 3.5+ `get-function` requirements
+Fork of [gulp-sass-inline-svg](https://www.npmjs.com/package/gulp-sass-inline-svg) to support Sass 3.5+ `get-function` requirements
 
 ---
 Gulp plugin for converting svg files into sass functions in order inline svgs in
